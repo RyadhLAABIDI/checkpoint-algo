@@ -1,0 +1,16 @@
+var
+i:integer
+s:string
+begin
+readin (sentence)
+writein i-sentence.lenght
+
+var
+s:string
+i,n:integerbegin
+n=0
+pour i de 0 to sentence.lenght
+if (s[i]:'') alors
+nc-n+1
+fin if 
+fin pour 
